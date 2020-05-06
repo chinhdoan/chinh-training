@@ -1,4 +1,3 @@
-
 var i = 0;
 var images = [];
 var time = 1200;
